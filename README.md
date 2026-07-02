@@ -229,6 +229,7 @@ And a very special thanks to **Roberciiik**, who is always developing the world 
 - Added new icons to BPBGTMAP.BAM file for the following modifications:
 	- Classic Adventures
 	- A7-TotLM-BG2EE (Castle Maluradek)
+	- Poisoned Pathways
 - Winter Wolf Ritual area can be fast-traveled for Drizzt Saga modification
 - Separated installation prompts from worldmap.tra file
 - Fixed typos in English, Polish and Chinese texts
