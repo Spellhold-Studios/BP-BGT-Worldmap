@@ -1,7 +1,7 @@
 BACKUP ~bp-bgt-worldmap/backup~
 SUPPORT ~www.shsforums.net/forum/401-worldmap/~
-VERSION "v14.0.0-rc"
-README "%MOD_FOLDER%/language/%LANGUAGE%/readme.html" "%MOD_FOLDER%/language/english/readme.html"
+VERSION ~v14.0.0~
+README ~%MOD_FOLDER%/language/%LANGUAGE%/readme.html~ ~%MOD_FOLDER%/language/%LANGUAGE%/readme.txt~ ~%MOD_FOLDER%/language/english/readme.html~
 
 ALWAYS
   INCLUDE ~%MOD_FOLDER%/lib/remove_triggers_macro.tph~

@@ -6,7 +6,7 @@
 
 <div align="center"><h1></a>BP-BGT Worldmap</h1>
 
-<h3>A Spellhold Studios mod for Baldur's Gate 2: SoA/ToB<h3>
+<h3>A Spellhold Studios mod for Baldur's Gate 2, Baldur's Gate: Enhanced Edition, Baldur's Gate II: Enhanced Edition, Baldur's Gate Trilogy, and Baldur's Gate: Enhanced Edition Trilogy<h3>
 
 </div><br />
 
@@ -151,7 +151,7 @@ and:
 
 **3. Savegame converter**<br />
 
-This component converts old Savegames (No "*New Game*" needed).
+This component converts old Savegames (No "*New Game*" needed). It works only with original BG2 or BGT.
 
 :warning: If you un-install the mod and you wish to keep using your existing saved-games, you need to run the savegame converter **after** the un-installation.
 
@@ -159,8 +159,8 @@ This component converts old Savegames (No "*New Game*" needed).
 
 **4. Worldmap UI**<br />
 
-This component adds two worldmap UI designs (Only for EE).
-1. BG2EE design
+This component allows you to extend worldmap viewport in game, and provides two UI designs. It works only with EE games.
+1. BG2:EE design
 2. Dragonspear UI design
 
 
@@ -216,7 +216,7 @@ And a very special thanks to **Roberciiik**, who is always developing the world 
 
 ## <a name="versions" id="versions"></a>Versions History
 
-##### Version 14.0.0 (Under development...)
+##### Version 14.0.0 (22 July 2026)
 
 - The Crags mountains are now separated from Surbrin Hills on the Worldmap canvas (thanks to p_zombie for updated image; thanks to Acifer, Mornagest, MephistoSatanDevil, Frenzygyn, alaisFcZ and paladin84 for the translations)
 - Westgate city "insert" added to the Worldmap canvas
@@ -232,7 +232,7 @@ And a very special thanks to **Roberciiik**, who is always developing the world 
 	- Poisoned Pathways
 - Winter Wolf Ritual area can be fast-traveled for Drizzt Saga modification
 - Separated installation prompts from worldmap.tra file
-- Fixed compatibility issue with SCS's Early Watcher's Keep transition.
+- Fixed compatibility issue with SCS's Early Watcher's Keep transition
 - Fixed typos in English, Polish and Chinese texts
 - Chinese translation update, by MephistoSatanDevil
 
