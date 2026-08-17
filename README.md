@@ -111,7 +111,8 @@ Extract the BP-BGT-Worldmap archive to your game-installation directory. Open a 
 
 #### Note for Complete Un-installation
 
-In addition to the methods above for removing individual components, you can completely un-install the mod using **`setup-bp-bgt-worldmap --uninstall`** at the command line to remove all components without wading through prompts.</br>
+In addition to the methods above for removing individual components, you can completely un-install the mod using **`setup-bp-bgt-worldmap --uninstall`** at the command line to remove all components without wading through prompts.
+<br/>
 <div align="right"><a href="#top">Back to top</a></div>
 
 
@@ -120,18 +121,21 @@ In addition to the methods above for removing individual components, you can com
 
 ## <a name="components" id="components"></a>Components
 
-The installer includes the following components.<br /><br />
+The installer includes the following components:
+<br/>
+<br/>
 
 ##
 
-**1. Worldmap for Baldur's Gate - including colored Baldur's Gate map icons**<br />
+**1. Revised travel times and area visibility**<br />
+
+This component enables revised (more accurate) travel times and better visibility between locations on the map. The information from this step will be used later during installation of the main component. The revised tables can be installed only for oBG2 games.
+
+##
+
+**2. New worldmap for Baldur's Gate**<br />
 
 Depending on the game (engine) you play and/or what mods are installed, you must choose between:
-
-1. Original travel times and area visibility, or
-2. Revised travel times and area visibility.
-
-and:
 
 1. Large worldmap size (4900x3500), or
 <center><img src="bp-bgt-worldmap/images/worldmap/worldmap_v7.0_large_mini.jpg"></center>
@@ -142,22 +146,22 @@ and:
 
 ## 
 
-**2. Worldmap for Throne of Bhaal**<br />
+**3. Worldmap for Throne of Bhaal**<br />
 
 1. Use new worldmap for Throne of Bhaal, or
 2. Use clothmap-style map for Throne of Bhaal.
 
 ## 
 
-**3. Savegame converter**<br />
+**4. Savegame converter**<br />
 
-This component converts old Savegames (No "*New Game*" needed). It works only with original BG2 or BGT.
+This component converts old Savegames (no "*New Game*" needed). It works only with original BG2 or BGT.
 
 :warning: If you un-install the mod and you wish to keep using your existing saved-games, you need to run the savegame converter **after** the un-installation.
 
 ## 
 
-**4. Worldmap UI**<br />
+**5. Worldmap UI**<br />
 
 This component allows you to extend worldmap viewport in game, and provides two UI designs. It works only with EE games.
 1. BG2:EE design
@@ -216,6 +220,12 @@ And a very special thanks to **Roberciiik**, who is always developing the world 
 
 ## <a name="versions" id="versions"></a>Versions History
 
+##### Under development
+
+- Revised travel times and area visibility question from the installation prompt is now split into separate component.
+
+##
+
 ##### Version 14.0.0 (22 July 2026)
 
 - The Crags mountains are now separated from Surbrin Hills on the Worldmap canvas (thanks to p_zombie for updated image; thanks to Acifer, Mornagest, MephistoSatanDevil, Frenzygyn, alaisFcZ and paladin84 for the translations)
@@ -236,14 +246,20 @@ And a very special thanks to **Roberciiik**, who is always developing the world 
 - Fixed typos in English, Polish and Chinese texts
 - Chinese translation update, by MephistoSatanDevil
 
+##
+
 ##### Version 13.1.1 (15 April 2024)
 
 - Fix for North Forest revealed by a travelling point (oBG2)
+
+##
 
 ##### Version 13.1.0 (24 March 2024)
 
 - Worldmap canvas image translated to Simplified Chinese, by Jiaozi
 - Removed incorrect and outdated area links for Drizzt Saga modification
+
+##
 
 ##### Version 13.0.0 (29 February 2024)
 

@@ -3,14 +3,9 @@
 
 @900   = ~Requiert l'installation prealable de BP-BGT Worldmap~
 
-@1000   = ~Carte du monde pour Baldur's Gate - icones de carte en couleurs pour Baldur's Gate incluses~
+@1000   = ~Carte du monde pour Baldur's Gate~
 
-@2000   = ~Quelles durees de trajet souhaitez-vous ?
-
-1. Durees de trajet et visibilites des zones d'origine ;
-2. Durees de trajet et visibilites des zones corrigees.
-
-VEUILLEZ ENTRER  1 ou 2  ~
+@2000   = ~Durees de trajet et visibilites des zones corrigees~
 
 @3000   = ~Quelle taille de carte du monde souhaitez-vous ?
 

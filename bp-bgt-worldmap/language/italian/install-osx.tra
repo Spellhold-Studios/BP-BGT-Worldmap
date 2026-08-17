@@ -63,15 +63,9 @@ predefinita: ~
 
 @900   = ~È necessario installare prima il componente BP-BGT Worldmap~
 
+@1000   = ~Mappa per Baldur's Gate~
 
-@1000   = ~Mappa per Baldur's Gate - include le icone colorate della mappa di Baldur's Gate~
-
-@2000   = ~Che tempi di viaggio vuoi usare?
-
-1. Tempi di viaggio e visibilità delle aree originali
-2. Tempi di Viaggio e visibilità delle aree corretti.
-
-DIGITA 1 O 2  ~
+@2000   = ~Tempi di Viaggio e visibilità delle aree corretti~
 
 
 @3000   = ~Di che dimensioni vuoi la Mappa?

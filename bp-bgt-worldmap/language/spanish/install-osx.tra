@@ -3,14 +3,9 @@
 
 @900   = ~Requiere primero la instalacion del mapa del mundo de BP-BGT~
 
-@1000   = ~Mapa del mundo para Baldur's Gate - incluyendo iconos de mapa coloreados de Baldur's Gate~
+@1000   = ~Mapa del mundo para Baldur's Gate~
 
-@2000   = ~¿Que tiempo de viaje quieres usar?
-
-1. Tiempos de viaje y visibilidad de zonas originales.
-2. Tiempos de viaje y visibilidad de zonas revisada.
-
-POR FAVOR INTRODUZCA 1 O 2~
+@2000   = ~Tiempos de viaje y visibilidad de zonas revisada~
 
 @3000   = ~¿Que tamaño del mapa quieres usar?
 

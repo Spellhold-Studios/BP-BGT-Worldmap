@@ -5,15 +5,13 @@
 @902 = ~Nie mozna zainstalowac tego komponentu na tej grze~
 @903 = ~Ten komponent nie jest dostepny dla gier na silniku EE~
 @904 = ~Ten komponent nie jest dostepny dla gier na silniku klasycznym~
+@905 = ~Ten komponent powinien zostac zainstalowany przed komponentem Rozszerzona mapa swiata (BP-BGT Worldmap)~
 
-@1000   = ~Rozszerzona mapa swiata dla Baldur's Gate~
+@1000 = ~Rozszerzona mapa swiata dla Baldur's Gate~
 
-@2000   = ~Jakie czasy podrozy chcesz zainstalowac?
-
-1. Oryginalne czasy podrozy oraz widzialnosc obszarow.
-2. Poprawione czasy podrozy oraz widzialnosc obszarow.
-
-PROSZE WYBRAC  1 ALBO 2~
+@2000 = ~Poprawione czasy podrozy oraz widocznosc obszarow~
+@2001 = ~Wybrano opcje poprawionych tabel obszarow i beda one zainstalowane...~
+@2002 = ~Nie wybrano poprawionych tabel obszarow, zainstalowane zostana oryginalne tabele...~
 
 @3000   = ~Jaki rozmiar mapy swiata chcesz zainstalowac?
 
