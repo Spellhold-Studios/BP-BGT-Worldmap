@@ -59,24 +59,12 @@ END
 // Tables are loaded //////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////
 
-OUTER_SET got_revised = GAME_IS ~tutu tutu_totsc tob bgt~ ? 1 : 0
-
-//Original or Revised?
-ACTION_IF got_revised BEGIN
-  PRINT @2000
-  ACTION_READLN how
-  OUTER_WHILE NOT IS_AN_INT how OR how > 2 OR how < 1 BEGIN
-    PRINT @2000
-    ACTION_READLN how
-  END
-END ELSE BEGIN
-  OUTER_SET how = 1
-END
-
-ACTION_IF how = 1 BEGIN
-  INCLUDE ~%MOD_FOLDER%/lib/original.tpa~
-END ELSE BEGIN
+ACTION_IF (VARIABLE_IS_SET RevisedOption AND RevisedOption = 1) BEGIN
+  PRINT @2001
   INCLUDE ~%MOD_FOLDER%/lib/revised.tpa~
+END ELSE BEGIN
+  PRINT @2002
+  INCLUDE ~%MOD_FOLDER%/lib/original.tpa~
 END
 
 ///////////////////////////////////////////////////////////////////////////

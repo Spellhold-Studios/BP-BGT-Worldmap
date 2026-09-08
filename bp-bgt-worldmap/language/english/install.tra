@@ -5,15 +5,13 @@
 @902 = ~This component is not available for this game~
 @903 = ~This component is not available for EE-type games~
 @904 = ~This component is not available for non EE-type games~
+@905 = ~This component should have been installed before the main component of BP-BGT Worldmap~
 
-@1000   = ~Worldmap for Baldur's Gate - including colored Baldur's Gate map icons~
+@1000 = ~New worldmap for Baldur's Gate~
 
-@2000   = ~Which travel times do you want?
-
-1. Original Travel Times and Area Visibility
-2. Revised Travel Times and Area Visibility.
-
-PLEASE ENTER  1 OR 2  ~
+@2000 = ~Revised travel times and area visibility~
+@2001 = ~Revised area tables option is selected and will be installed...~
+@2002 = ~Revised area tables option is not selected, original area tables will installed...~
 
 @3000   = ~Which size of the worldmap do you want?
 
